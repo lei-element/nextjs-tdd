@@ -27,6 +27,10 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 Note: Once you successfully run the `docker compose up` command and create the required container, you can control the container using Docker Desktop without needing to run the command each time.
 
+## Project Lucid
+
+[Click here](https://lucid.app/lucidspark/cd94075f-4149-4eb4-a741-5c412a38c7ff/edit?invitationId=inv_a73e707b-e4b3-40bc-b14b-4d3f354c6601&page=0_0#) to visit the Lucid document.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
