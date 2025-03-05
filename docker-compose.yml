@@ -1,0 +1,16 @@
+services:
+  nextjs-tdd:
+    image: node:latest # Image's name
+    working_dir: /usr/src/app
+    ports:
+      - "3000:3000"
+    command: >
+      sh -c "rm -rf node_modules && npm install -g npm@11.1.0 && npm i && npm run dev"
+    volumes:
+      - .:/usr/src/app
+    environment:
+      - CHOKIDAR_USEPOLLING=true # Monitoring file changes. This is not necessary, but good to have.
+    deploy:
+      resources:
+        limits:
+          memory: 3g # Allocate more memory to the container, or it will fail to run. I can't explain why it needs so much memory.
