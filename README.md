@@ -2,6 +2,8 @@
 
 This project is a basic example of using Test-Driven Development (TDD) with [Next.js](https://nextjs.org). It aims to demonstrate the benefits and practices of TDD to our team, encouraging a more robust and reliable development process.
 
+Before starting the project, we used Lucid to brainstorm. [Click here](https://lucid.app/lucidspark/cd94075f-4149-4eb4-a741-5c412a38c7ff/edit?invitationId=inv_a73e707b-e4b3-40bc-b14b-4d3f354c6601&page=0_0#) to visit the Lucid document.
+
 ## Goals
 
 * Promote TDD: Show the advantages of writing tests before code.
@@ -35,18 +37,13 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 Note: Once you successfully run the `docker compose up` command and create the required container, you can control the container using Docker Desktop without needing to run the command each time.
 
-## Project Lucid
+## Challenges and Solutions
 
-[Click here](https://lucid.app/lucidspark/cd94075f-4149-4eb4-a741-5c412a38c7ff/edit?invitationId=inv_a73e707b-e4b3-40bc-b14b-4d3f354c6601&page=0_0#) to visit the Lucid document.
+Document any challenges we encounter and how we resolve them.
 
-## Learn More
+## Progress Updates
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Keep a log of our progress, including what was accomplished each week.
 
 ## Deploy on Vercel
 
