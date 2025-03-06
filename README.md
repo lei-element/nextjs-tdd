@@ -10,6 +10,13 @@ Before starting the project, we used Lucid to brainstorm. [Click here](https://l
 * Improve Code Quality: Ensure our code is reliable and maintainable.
 * Foster Collaboration: Encourage team members to adopt TDD in their daily workflow.
 
+## Team Members
+
+1. Mike
+2. Michelle
+3. Lei
+4. Max
+
 ## Getting Started
 
 First, run the development server:
