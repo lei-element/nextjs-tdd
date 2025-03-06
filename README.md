@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TDD Example Project
+
+This project is a basic example of using Test-Driven Development (TDD) with [Next.js](https://nextjs.org). It aims to demonstrate the benefits and practices of TDD to our team, encouraging a more robust and reliable development process.
+
+## Goals
+
+* Promote TDD: Show the advantages of writing tests before code.
+* Improve Code Quality: Ensure our code is reliable and maintainable.
+* Foster Collaboration: Encourage team members to adopt TDD in their daily workflow.
 
 ## Getting Started
 
@@ -20,7 +28,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Getting Started via Docker
+### Getting Started via Docker
 
 1. Installed [Docker Desktop](https://docs.docker.com/desktop/setup/install/windows-install/)
 2. In the project root directory, run `docker compose up`.
