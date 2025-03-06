@@ -17,6 +17,12 @@ Before starting the project, we used Lucid to brainstorm. [Click here](https://l
 3. Lei
 4. Max
 
+## Tools and Libraries
+
+* Next.js - A React framework
+* Jest - A JavaScript testing framework
+* SQLite - A free and open-source relational database
+
 ## Getting Started
 
 First, run the development server:
