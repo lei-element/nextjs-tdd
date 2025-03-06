@@ -50,6 +50,20 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 Note: Once you successfully run the `docker compose up` command and create the required container, you can control the container using Docker Desktop without needing to run the command each time.
 
+## TDD Workflow
+
+### Step 1 Writing Tests First
+
+Placeholder...
+
+### Step 2 Implementing Features
+
+Placeholder...
+
+### Step 3 Refactoring & Bug Fix
+
+Placeholder...
+
 ## Challenges and Solutions
 
 Document any challenges we encounter and how we resolve them.
