@@ -63,3 +63,8 @@ Keep a log of our progress, including what was accomplished each week.
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## References
+
+* [API testing with Jest](https://medium.com/hackernoon/api-testing-with-jest-d1ab74005c0a)
+* [How To Write End-to-End Tests in Node.js Using Puppeteer and Jest](https://www.digitalocean.com/community/tutorials/how-to-write-end-to-end-tests-in-node-js-using-puppeteer-and-jest)
