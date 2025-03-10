@@ -4,6 +4,8 @@ This project is a basic example of using Test-Driven Development (TDD) with [Nex
 
 Before starting the project, we used Lucid to brainstorm. [Click here](https://lucid.app/lucidspark/cd94075f-4149-4eb4-a741-5c412a38c7ff/edit?invitationId=inv_a73e707b-e4b3-40bc-b14b-4d3f354c6601&page=0_0#) to visit the Lucid document.
 
+You can [click here](https://elementfleet.atlassian.net/wiki/spaces/AD1/pages/3469181016/Test-Driven+Development+TDD) to refer to the TDD development standards previously summarized and drafted by the team.
+
 ## Goals
 
 * Promote TDD: Show the advantages of writing tests before code.
