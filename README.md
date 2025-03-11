@@ -4,7 +4,7 @@ This project is a basic example of using Test-Driven Development (TDD) with [Nex
 
 Before starting the project, we used Lucid to brainstorm. [Click here](https://lucid.app/lucidspark/cd94075f-4149-4eb4-a741-5c412a38c7ff/edit?invitationId=inv_a73e707b-e4b3-40bc-b14b-4d3f354c6601&page=0_0#) to visit the Lucid document.
 
-You can [click here](https://elementfleet.atlassian.net/wiki/spaces/AD1/pages/3469181016/Test-Driven+Development+TDD) to refer to the TDD development standards previously summarized and drafted by the team.
+Note: [Click here](https://elementfleet.atlassian.net/wiki/spaces/AD1/pages/3469181016/Test-Driven+Development+TDD) to refer to the TDD development standards previously summarized and drafted by the team.
 
 ## Goals
 
@@ -24,10 +24,13 @@ You can [click here](https://elementfleet.atlassian.net/wiki/spaces/AD1/pages/34
 * Next.js - A React framework
 * Jest - A JavaScript testing framework
 * SQLite - A free and open-source relational database
+* DBeaver Community - A free cross-platform database tool. Download it [here](https://dbeaver.io/download/).
 
 ## Getting Started
 
-First, run the development server:
+Step 1, run `npm i`.
+
+Step 2, run the development server:
 
 ```bash
 npm run dev
@@ -46,6 +49,8 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ### Getting Started via Docker
+
+If you prefer to use Docker:
 
 1. Installed [Docker Desktop](https://docs.docker.com/desktop/setup/install/windows-install/)
 2. In the project root directory, run `docker compose up`.

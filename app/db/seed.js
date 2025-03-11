@@ -2,6 +2,10 @@ import { openDb } from './connect';
 
 export async function setup() {
     const db = await openDb()
+	
+	await db.exec(`
+      DROP TABLE IF EXISTS posts;
+    `)
   
     await db.exec(`
       CREATE TABLE posts (
